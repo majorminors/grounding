@@ -24,10 +24,6 @@ add-on's backend in the add-on.
   is thin, 10 real runs and none after 2026-11-10, so the
   comparison is only worth making if the agents use grounding
   meanwhile; the public server's logs will be public callers alone.
-- **From the baseline: a dollar stop for subscription runs.** The
-  Claude Code runner has none (the $1 limit holds only for the API
-  runner); 5 of 10 real runs were over $1 at list price, $1.96 the
-  most. Decide whether a turn or token bound should stand in.
 - **From the baseline: is `citation_graph` worth offering the
   researcher?** Never called in 35 runs; the questions were mostly
   not scholarly, and the prompt pitches it narrowly. Look again at

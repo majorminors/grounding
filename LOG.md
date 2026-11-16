@@ -1801,3 +1801,20 @@ operator's own agents use it).
   ladder. The release path is now: tag, push, then a pin bump with
   the sums from `checksums.txt`.
 
+## No per-run spending bound on subscription runs (2026-11-16)
+
+- The log baseline noted the Claude Code runner has no dollar stop
+  (the API runner's $1 limit is real money; on a subscription the
+  cost is a list-price estimate). A tool-call bound was built
+  (default 24, grounding refusing calls past it and telling the
+  researcher to write its backbrief; Claude Code's own
+  `--max-turns` and `--max-budget-usd` end a run with no backbrief)
+  and not merged. dorian: a subscription has no per-run cost, and
+  the threat it would answer, a runaway or page-steered loop eating
+  usage, is already bounded by the run's 6-minute limit (the longest
+  real run took 270 s; the most tool calls was 49). A 24-call bound
+  would have cut short half the real runs, the thorough ones.
+- Kept unmerged on a local branch in case usage limits ever bite. If
+  a backstop is wanted, set it well above anything seen (100 calls),
+  not at the median.
+
