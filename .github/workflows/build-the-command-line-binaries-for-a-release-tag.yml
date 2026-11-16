@@ -1,0 +1,38 @@
+# A tag vX.Y.Z builds grounding's command line for three platforms and
+# publishes them as that tag's release, each named
+# grounding-vX.Y.Z-PLATFORM. Built as the server is: no cgo, trimmed
+# paths, the tag stamped in as the version.
+name: Build the command-line binaries for a release tag
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+      - name: Test
+        run: go test -short ./...
+      - name: Build each platform
+        run: |
+          for platform in darwin-arm64 linux-amd64 linux-arm64; do
+            CGO_ENABLED=0 GOOS="${platform%-*}" GOARCH="${platform#*-}" \
+              go build -trimpath -ldflags "-s -w -X btr.mt/grounding/cmd.version=${GITHUB_REF_NAME}" \
+              -o "grounding-${GITHUB_REF_NAME}-${platform}" .
+          done
+          sha256sum grounding-${GITHUB_REF_NAME}-* | tee checksums.txt
+      - name: Publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${GITHUB_REF_NAME}" --title "${GITHUB_REF_NAME}" \
+            --notes "Command-line binaries for grounding ${GITHUB_REF_NAME}, built from this tag. SHA-256 sums in checksums.txt." \
+            grounding-${GITHUB_REF_NAME}-* checksums.txt
