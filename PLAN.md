@@ -7,12 +7,6 @@ add-on's backend in the add-on.
 
 ## Up next
 
-- **The release workflow's first run.** The next tag is the first
-  release built by `.github/workflows/` rather than by hand: check
-  that all three binaries and `checksums.txt` are published, that
-  each binary reports the tag as its version, and that the sums are
-  the ones a pin of that release would declare. v1.3.0's binaries
-  were copied to GitHub by hand.
 - **Deploys that follow every repository a site is built from.**
   The deployment engine gained push-then-deploy across repositories
   (a site lists its code repositories, which rebuild on a push, and

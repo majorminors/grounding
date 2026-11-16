@@ -1791,3 +1791,13 @@ operator's own agents use it).
   token is kept. It is exact, so a branch or tag deleted on the
   forge goes from GitHub too.
 
+## v1.3.1, the first release built on GitHub (2026-11-16)
+
+- Tag `v1.3.1` (`0246bd0`) reached GitHub by the push mirror, and the
+  workflow built and published the three binaries and
+  `checksums.txt` in 3m32s. Checked: every sum matches, the macOS
+  binary reports `v1.3.1`, the Linux ones are static. It carries the
+  Firecrawl credit-count fix and consent-wall pages climbing the
+  ladder. The release path is now: tag, push, then a pin bump with
+  the sums from `checksums.txt`.
+
