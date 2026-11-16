@@ -1769,3 +1769,25 @@ operator's own agents use it).
   list names what is private, so it lives outside this repository,
   and core names no path to it. `TestCoreNamesNoBackendThatBelongsInAnAddOn`
   now checks PLAN.md and LOG.md too.
+
+## Push, then deploy (2026-11-16)
+
+- dorian: "if I push grounding, it should deploy all three, and if I
+  push the add-on it should deploy just that one", with no waiting
+  for a timer and no scripts. Today a push to core deploys core's
+  server by its webhook and reaches GitHub by the forge's push
+  mirror within seconds (seen with `2a5f8df` and `5ca3a60`); the
+  add-on's server still waits for its hourly fetch and a pin.
+- The rest is the deployment engine's, not grounding's: a site lists
+  every repository it is built from, code (a push rebuilds) or
+  content (a push runs a declared command), and the engine makes
+  the forge's webhooks itself. Designed and built in the engine
+  (its PLAN "Push, then deploy: every repository a site is built
+  from"), on its development branch since 2026-11-16, and released
+  with its next batch (dorian: releases are batched; work lands and
+  waits unless it is urgent).
+- The mirror pushes over ssh with a key of its own, which GitHub
+  holds as a write deploy key on this repository alone: no GitHub
+  token is kept. It is exact, so a branch or tag deleted on the
+  forge goes from GitHub too.
+
