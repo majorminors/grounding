@@ -1528,7 +1528,7 @@ and YouTube (links only) were all read by crawl4ai. The Attention
 paper's PDF read through GROBID in about 11 s, with its sections
 and references; the IPCC summary read whole but untitled.
 
-**GROBID's memory rules it off ex for now.** The CRF image idles at
+**GROBID's memory rules it off the production server for now.** The CRF image idles at
 3.4 GB and peaked at 4.0 GB on one paper, whatever the worker count
 (10 or 2) or Java heap (`-Xmx1g`): the models live outside the heap.
 In a 4 GiB VM it was killed (exit 137) twice, alone and beside
