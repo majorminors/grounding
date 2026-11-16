@@ -16,10 +16,6 @@ add-on's backend in the add-on.
   is thin, 10 real runs and none after 2026-11-10, so the
   comparison is only worth making if the agents use grounding
   meanwhile; the public server's logs will be public callers alone.
-- **From the baseline: a Semantic Scholar key.** It answered 3 of 99
-  attempts: no key on either server, so it shares the public pool,
-  which is throttled; our 1 req/s limit is right. dorian applies for
-  a free key; then it goes into both servers' environments.
 - **From the baseline: a dollar stop for subscription runs.** The
   Claude Code runner has none (the $1 limit holds only for the API
   runner); 5 of 10 real runs were over $1 at list price, $1.96 the
@@ -567,7 +563,10 @@ session is most likely to propose again.
   per key instead of a share of the global unauthenticated pool,
   which would help---but applications from third-party apps are
   not approved (their Nov 2024 note) and none has arrived. Since
-  2026-09-17 SS is not load-bearing; don't wait for it.
+  2026-09-17 SS is not load-bearing; don't wait for it. The
+  2026-11-16 log baseline bears it out: 3 answers in 99 attempts,
+  every search carried by OpenAlex and Crossref, and our 1 req/s
+  limit is right.
 - **Google Books, JSTOR, Scopus, CORE, arXiv.** Europe PMC,
   Unpaywall, OpenCitations and Exa were added 2026-09-17 because
   each closes a specific gap (abstracts without Semantic Scholar;
