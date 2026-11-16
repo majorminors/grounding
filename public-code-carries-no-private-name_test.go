@@ -9,19 +9,22 @@ import (
 )
 
 // The code repository is public, so no file in it may name what is
-// private to a deployment: its hosts, addresses, domains or people.
-// Those names are themselves private, so the list lives beside the
-// code in private/ (AGENTS.md), one regular expression per line,
-// matched case-insensitively; without private/ the test is skipped.
-const privateNamesThePublicCodeMustNotCarryPath = "private/names-the-public-code-must-not-carry"
+// private to a deployment: its hosts, addresses, domains or people,
+// or a backend core does not carry. Those names are themselves
+// private, so the list lives outside this repository, one regular
+// expression per line, matched case-insensitively; '#' starts a
+// comment line. GROUNDING_PRIVATE_NAMES_FILE gives its path, and
+// without it the test is skipped.
+const privateNamesListPathEnvironmentVariable = "GROUNDING_PRIVATE_NAMES_FILE"
 
 func TestPublicCodeCarriesNoPrivateName(t *testing.T) {
-	listed, err := os.ReadFile(privateNamesThePublicCodeMustNotCarryPath)
-	if os.IsNotExist(err) {
-		t.Skip("no private/ here: nothing to check against")
+	privateNamesListPath := os.Getenv(privateNamesListPathEnvironmentVariable)
+	if privateNamesListPath == "" {
+		t.Skipf("%s is not set: no list of private names to check against", privateNamesListPathEnvironmentVariable)
 	}
+	listed, err := os.ReadFile(privateNamesListPath)
 	if err != nil {
-		t.Fatal(err)
+		t.Fatalf("%s: %v", privateNamesListPathEnvironmentVariable, err)
 	}
 	var patterns []string
 	for _, line := range strings.Split(string(listed), "\n") {
@@ -30,7 +33,7 @@ func TestPublicCodeCarriesNoPrivateName(t *testing.T) {
 		}
 	}
 	if len(patterns) == 0 {
-		t.Fatalf("%s lists no names", privateNamesThePublicCodeMustNotCarryPath)
+		t.Fatalf("%s lists no names", privateNamesListPath)
 	}
 	privateName := regexp.MustCompile(`(?i)` + strings.Join(patterns, "|"))
 	// Only what git tracks goes public; a built binary or a cache in

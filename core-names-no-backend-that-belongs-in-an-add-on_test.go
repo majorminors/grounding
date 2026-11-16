@@ -16,9 +16,8 @@ import (
 var namesThatBelongInAnAddOn = regexp.MustCompile(`(?i)\bann[a](s|'s|’s)?\b|\bannas[-_ ]archive|\bscid[b]\b|aarecor[d]|\blibgen\b|\bz-librar[y]\b|sci-hu[b]`)
 
 // docsCoreGivesAway are the documents that go to the public repository
-// with the code. PLAN.md and LOG.md hold the history of the split
-// itself, and are settled at phase 6.
-var docsCoreGivesAway = []string{"README.md", "AGENTS.md"}
+// with the code, the planning docs among them since 2026-11-16.
+var docsCoreGivesAway = []string{"README.md", "AGENTS.md", "PLAN.md", "LOG.md"}
 
 func TestCoreNamesNoBackendThatBelongsInAnAddOn(t *testing.T) {
 	var files []string

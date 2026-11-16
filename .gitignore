@@ -24,9 +24,3 @@ Thumbs.db
 
 # Python bytecode from the crawl4ai render service and its tests.
 __pycache__/
-
-# This deployment's private notes: a separate repository checked out
-# here, with the planning docs linked into the root (AGENTS.md).
-private/
-PLAN.md
-LOG.md

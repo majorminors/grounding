@@ -14,11 +14,10 @@ Go CLI + MCP server for grounding AI reasoning. See README.md for architecture.
   persisting across sessions (rate limiting, backends, deployment,
   known limitations).
 
-Both are private: they live in a separate repository, checked out
-as `private/` beside the code (ignored by git), with `PLAN.md` and
-`LOG.md` in the root as links into it. Read them at the start of a
-session if context isn't otherwise clear. Without `private/` (a
-public clone), there are none, and nothing here depends on them.
+Both live in the root and are public, like the code: read them at
+the start of a session if context isn't otherwise clear. They are
+written generically, so nothing about a particular deployment goes
+in them either (see the last item under "Working Here").
 
 ## Pick-up
 
@@ -111,9 +110,13 @@ Env vars are listed in README.md. The binary does not read `.env`.
   fail a run, and must stay the server user's alone
 - The code repository is public: the forge mirrors every push to
   GitHub. So nothing about a deployment, a server's host, a network
-  or a person's setup goes in the code, its comments, the README or
-  this file; that goes in `private/AGENTS.md`. `go test` checks the
-  names `private/names-the-public-code-must-not-carry` lists, when
-  `private/` is there
-
-@private/AGENTS.md
+  or a person's setup goes in the code, its comments, the README,
+  PLAN.md, LOG.md or this file; that belongs with the deployment's
+  own configuration. Nor does anything naming an add-on's backend:
+  its history and plans go in the add-on's own LOG and PLAN.
+  `TestPublicCodeCarriesNoPrivateName` checks every tracked file
+  against a list of private names kept outside this repository:
+  point it at one with `GROUNDING_PRIVATE_NAMES_FILE=PATH go test
+  -short ./...` (one Go regular expression per line, matched
+  case-insensitively, `#` for comments). Without the variable it is
+  skipped
