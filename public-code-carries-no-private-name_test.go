@@ -2,7 +2,7 @@ package main
 
 import (
 	"os"
-	"path/filepath"
+	"os/exec"
 	"regexp"
 	"strings"
 	"testing"
@@ -33,35 +33,25 @@ func TestPublicCodeCarriesNoPrivateName(t *testing.T) {
 		t.Fatalf("%s lists no names", privateNamesThePublicCodeMustNotCarryPath)
 	}
 	privateName := regexp.MustCompile(`(?i)` + strings.Join(patterns, "|"))
-	err = filepath.WalkDir(".", func(path string, entry os.DirEntry, err error) error {
-		if err != nil {
-			return err
-		}
-		hidden := strings.HasPrefix(entry.Name(), ".") && entry.Name() != ".github" && entry.Name() != ".gitignore"
-		if entry.IsDir() {
-			if path != "." && (hidden || path == "private") {
-				return filepath.SkipDir
-			}
-			return nil
-		}
-		if hidden {
-			return nil // git's own files, editors' and the OS's
-		}
-		if entry.Type()&os.ModeSymlink != 0 {
-			return nil
+	// Only what git tracks goes public; a built binary or a cache in
+	// the checkout is not checked.
+	tracked, err := exec.Command("git", "ls-files", "-z").Output()
+	if err != nil {
+		t.Skipf("git ls-files: %v", err)
+	}
+	for _, path := range strings.Split(strings.TrimRight(string(tracked), "\x00"), "\x00") {
+		info, err := os.Lstat(path)
+		if err != nil || !info.Mode().IsRegular() {
+			continue // a link, or a file deleted but not yet committed
 		}
 		content, err := os.ReadFile(path)
 		if err != nil {
-			return err
+			t.Fatal(err)
 		}
 		for number, line := range strings.Split(string(content), "\n") {
 			if match := privateName.FindString(line); match != "" {
 				t.Errorf("%s:%d names %q, which is private to a deployment", path, number+1, match)
 			}
 		}
-		return nil
-	})
-	if err != nil {
-		t.Fatal(err)
 	}
 }
