@@ -1,0 +1,2555 @@
+[
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 81263,
+    "fetch_seconds": 4.322136292,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 76564,
+    "fetch_seconds": 4.383771375
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 80837,
+    "fetch_seconds": 1.41553975,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 81161,
+    "fetch_seconds": 1.456715209
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 186,
+    "fetch_seconds": 4.543708292,
+    "main_content_extracted": false
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 131,
+    "fetch_seconds": 4.546122459
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 168638,
+    "fetch_seconds": 1.103029209,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 152725,
+    "fetch_seconds": 1.1658937090000001
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 209,
+    "fetch_seconds": 0.196975292,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 569,
+    "fetch_seconds": 0.198232042
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 63182,
+    "fetch_seconds": 0.489399167,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 40021,
+    "fetch_seconds": 0.52275575
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 50214,
+    "fetch_seconds": 0.378487583,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 39135,
+    "fetch_seconds": 0.398862041
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 50443,
+    "fetch_seconds": 1.00253275,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 39135,
+    "fetch_seconds": 1.037514417
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 1963,
+    "fetch_seconds": 0.162770958,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 3949,
+    "fetch_seconds": 0.16861675
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 2060,
+    "fetch_seconds": 0.302610042,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 3965,
+    "fetch_seconds": 0.308312917
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 209,
+    "fetch_seconds": 0.318253125,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 569,
+    "fetch_seconds": 0.319388167
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 3894,
+    "fetch_seconds": 0.533101791,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 2316,
+    "fetch_seconds": 0.548062083
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 5016,
+    "fetch_seconds": 0.198294333,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 4262,
+    "fetch_seconds": 0.209396958
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 5016,
+    "fetch_seconds": 0.57829625,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 4262,
+    "fetch_seconds": 0.59471175
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 10209,
+    "fetch_seconds": 0.418996667,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 8608,
+    "fetch_seconds": 0.436435042
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 10159,
+    "fetch_seconds": 9.147915084,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 8188,
+    "fetch_seconds": 9.16310725
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 9643,
+    "fetch_seconds": 0.7631405,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 6910,
+    "fetch_seconds": 0.775679625
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 9643,
+    "fetch_seconds": 4.193981792,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 6910,
+    "fetch_seconds": 4.20825525
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 17085,
+    "fetch_seconds": 0.302423042,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 12402,
+    "fetch_seconds": 0.331167834
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 17085,
+    "fetch_seconds": 0.457728875,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 12402,
+    "fetch_seconds": 0.489443333
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "plain-readability",
+    "ok": false,
+    "error": "the site answered HTTP 429",
+    "characters": 0,
+    "fetch_seconds": 0.147907708
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "error": "the site answered HTTP 429",
+    "characters": 0,
+    "fetch_seconds": 0.148258708
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 865,
+    "fetch_seconds": 31.409857917,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 3323,
+    "fetch_seconds": 31.433548833
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 12169,
+    "fetch_seconds": 0.260058791,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 15209,
+    "fetch_seconds": 0.30816875
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 12172,
+    "fetch_seconds": 0.612508083,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 15374,
+    "fetch_seconds": 0.695414708
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 8434,
+    "fetch_seconds": 0.222543416,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 8043,
+    "fetch_seconds": 0.242905958
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 8434,
+    "fetch_seconds": 4.12661725,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 8043,
+    "fetch_seconds": 4.147405791
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 837,
+    "fetch_seconds": 1.870598125,
+    "main_content_extracted": false
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 145,
+    "fetch_seconds": 1.89060425
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 6105,
+    "fetch_seconds": 1.236781333,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 1883,
+    "fetch_seconds": 1.285657792
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "plain-readability",
+    "ok": false,
+    "error": "the URL is a PDF, which the plain renderer does not read; try renderer \"firecrawl\", or for a scholarly paper, look it up by DOI instead",
+    "characters": 0,
+    "fetch_seconds": 0.614873083
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "error": "serves application/pdf, not HTML",
+    "characters": 0,
+    "fetch_seconds": 0.621198333
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 44520,
+    "fetch_seconds": 0.23356175,
+    "main_content_extracted": false
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 44520,
+    "fetch_seconds": 0.234155333
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "plain-readability",
+    "ok": false,
+    "error": "the URL is a PDF, which the plain renderer does not read; try renderer \"firecrawl\", or for a scholarly paper, look it up by DOI instead",
+    "characters": 0,
+    "fetch_seconds": 0.622886375
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "error": "serves application/pdf, not HTML",
+    "characters": 0,
+    "fetch_seconds": 0.6328215
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 120124,
+    "fetch_seconds": 1.8996806670000002,
+    "main_content_extracted": false
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 120124,
+    "fetch_seconds": 1.9008775839999998
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 17145,
+    "fetch_seconds": 0.14293725,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 17794,
+    "fetch_seconds": 0.1753725
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 17886,
+    "fetch_seconds": 0.256698709,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 18641,
+    "fetch_seconds": 0.288965
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 90078,
+    "fetch_seconds": 0.986066875,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 88701,
+    "fetch_seconds": 1.100319417
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 90078,
+    "fetch_seconds": 3.109371792,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 88701,
+    "fetch_seconds": 3.240548708
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 68480,
+    "fetch_seconds": 0.5686775,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 68442,
+    "fetch_seconds": 0.591521417
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 68480,
+    "fetch_seconds": 0.4038345,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 68442,
+    "fetch_seconds": 0.428053041
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 794,
+    "fetch_seconds": 0.168685792,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 329,
+    "fetch_seconds": 0.174884958
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 794,
+    "fetch_seconds": 2.201794666,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 329,
+    "fetch_seconds": 2.207050083
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 9512,
+    "fetch_seconds": 0.477778459,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 12583,
+    "fetch_seconds": 0.497562334
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 10330,
+    "fetch_seconds": 35.930030834,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 12782,
+    "fetch_seconds": 35.959450584
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 3340,
+    "fetch_seconds": 0.162742375,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 3155,
+    "fetch_seconds": 0.167428208
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 3340,
+    "fetch_seconds": 3.151180417,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 3155,
+    "fetch_seconds": 3.156971667
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 9204,
+    "fetch_seconds": 0.117190792,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 9193,
+    "fetch_seconds": 0.127761125
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 9204,
+    "fetch_seconds": 0.573327667,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 9193,
+    "fetch_seconds": 0.591106334
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "plain-readability",
+    "ok": false,
+    "error": "the site answered HTTP 403",
+    "characters": 0,
+    "fetch_seconds": 0.117268125
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "error": "the site answered HTTP 403",
+    "characters": 0,
+    "fetch_seconds": 0.117597416
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 7987,
+    "fetch_seconds": 1.08050325,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 7735,
+    "fetch_seconds": 1.180114708
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 29148,
+    "fetch_seconds": 0.523167708,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 23396,
+    "fetch_seconds": 0.56296225
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 29148,
+    "fetch_seconds": 0.411582209,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 23396,
+    "fetch_seconds": 0.453182834
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 299,
+    "fetch_seconds": 2.893978875,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 10060,
+    "fetch_seconds": 3.026111333
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "firecrawl-readability",
+    "ok": false,
+    "error": "firecrawl scrape error: HTTP 403: {\"success\":false,\"error\":\"We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please contact our sales team here: https://www.firecrawl.dev/contact-sales\"}",
+    "characters": 0,
+    "fetch_seconds": 0.134900209
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "firecrawl-trafilatura",
+    "ok": false,
+    "error": "firecrawl scrape error: HTTP 403: {\"success\":false,\"error\":\"We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please contact our sales team here: https://www.firecrawl.dev/contact-sales\"}",
+    "characters": 0,
+    "fetch_seconds": 0.135246625
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "plain-readability",
+    "ok": false,
+    "error": "the site answered HTTP 403",
+    "characters": 0,
+    "fetch_seconds": 0.123353417
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "error": "the site answered HTTP 403",
+    "characters": 0,
+    "fetch_seconds": 0.123739667
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 1166,
+    "fetch_seconds": 1.07136125,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 31654,
+    "fetch_seconds": 1.170195875
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "plain-readability",
+    "ok": false,
+    "error": "the site answered HTTP 403",
+    "characters": 0,
+    "fetch_seconds": 0.0784
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "error": "the site answered HTTP 403",
+    "characters": 0,
+    "fetch_seconds": 0.078951625
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 4672,
+    "fetch_seconds": 2.882704459,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 6663,
+    "fetch_seconds": 2.898904459
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "plain-readability",
+    "ok": false,
+    "error": "the site answered HTTP 403",
+    "characters": 0,
+    "fetch_seconds": 0.195691208
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "error": "the site answered HTTP 403",
+    "characters": 0,
+    "fetch_seconds": 0.196240333
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "firecrawl-readability",
+    "ok": false,
+    "error": "firecrawl scrape error: HTTP 403: {\"success\":false,\"error\":\"We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please contact our sales team here: https://www.firecrawl.dev/contact-sales\"}",
+    "characters": 0,
+    "fetch_seconds": 0.128859958
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "firecrawl-trafilatura",
+    "ok": false,
+    "error": "firecrawl scrape error: HTTP 403: {\"success\":false,\"error\":\"We apologize for the inconvenience but we do not support this site. If you are part of an enterprise and want to have a further conversation about this, please contact our sales team here: https://www.firecrawl.dev/contact-sales\"}",
+    "characters": 0,
+    "fetch_seconds": 0.129160833
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "plain-readability",
+    "ok": false,
+    "error": "the site answered HTTP 403",
+    "characters": 0,
+    "fetch_seconds": 0.113326667
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "error": "the site answered HTTP 403",
+    "characters": 0,
+    "fetch_seconds": 0.113662917
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 258,
+    "fetch_seconds": 8.089568041,
+    "main_content_extracted": false
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 113,
+    "fetch_seconds": 8.091363958
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 66706,
+    "fetch_seconds": 0.155939334,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 62931,
+    "fetch_seconds": 0.204682459
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 73293,
+    "fetch_seconds": 37.8213505,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 67783,
+    "fetch_seconds": 37.855588374999996
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 81551,
+    "fetch_seconds": 0.937256875,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 76852,
+    "fetch_seconds": 0.9905845
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 81263,
+    "fetch_seconds": 5.529256625,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 76564,
+    "fetch_seconds": 5.5739846669999995
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 114366,
+    "fetch_seconds": 5.574333083
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 77507,
+    "fetch_seconds": 5.574587583
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 49318,
+    "fetch_seconds": 1.6487297920000001
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 168637,
+    "fetch_seconds": 0.92131825,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 152724,
+    "fetch_seconds": 0.972599917
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 168637,
+    "fetch_seconds": 4.824375584,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 152724,
+    "fetch_seconds": 4.87421325
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 182033,
+    "fetch_seconds": 4.874866292
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 174245,
+    "fetch_seconds": 4.875180667
+  },
+  {
+    "page_id": "pmc-article",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 26852,
+    "fetch_seconds": 1.054747667
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 63182,
+    "fetch_seconds": 1.2687160419999999,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 40021,
+    "fetch_seconds": 1.296649584
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 63182,
+    "fetch_seconds": 5.65025025,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 40021,
+    "fetch_seconds": 5.6768825
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 101077,
+    "fetch_seconds": 5.677272958
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 55213,
+    "fetch_seconds": 5.677733458
+  },
+  {
+    "page_id": "nature-numpy",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 34474,
+    "fetch_seconds": 1.177826584
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 52338,
+    "fetch_seconds": 1.839543334,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 39135,
+    "fetch_seconds": 1.874901125
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 50715,
+    "fetch_seconds": 5.529452208,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 39135,
+    "fetch_seconds": 5.563513
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 70123,
+    "fetch_seconds": 5.563855375
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 41900,
+    "fetch_seconds": 5.56407925
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 32364,
+    "fetch_seconds": 1.661572125
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 1963,
+    "fetch_seconds": 0.408594792,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 3949,
+    "fetch_seconds": 0.414248833
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 1963,
+    "fetch_seconds": 2.448441583,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 3949,
+    "fetch_seconds": 2.453510875
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 9503,
+    "fetch_seconds": 2.453797458
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 6197,
+    "fetch_seconds": 2.454094875
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 1475,
+    "fetch_seconds": 0.323632416
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 9900,
+    "fetch_seconds": 0.329683917,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 280,
+    "fetch_seconds": 0.331836375
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 209,
+    "fetch_seconds": 1.8688222909999999,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 569,
+    "fetch_seconds": 1.870951291
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 211,
+    "fetch_seconds": 1.87142725
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 211,
+    "fetch_seconds": 1.8718060410000001
+  },
+  {
+    "page_id": "jstor-prospect",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "error": "no text",
+    "characters": 0,
+    "fetch_seconds": 0.274662
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 5016,
+    "fetch_seconds": 0.567403958,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 4262,
+    "fetch_seconds": 0.576470167
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 5016,
+    "fetch_seconds": 2.97568025,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 4262,
+    "fetch_seconds": 2.9844023330000002
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 21551,
+    "fetch_seconds": 2.984780083
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 7340,
+    "fetch_seconds": 2.985010291
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 3281,
+    "fetch_seconds": 0.415711083
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 10209,
+    "fetch_seconds": 0.583151708,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 8608,
+    "fetch_seconds": 0.598482125
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 8159,
+    "fetch_seconds": 4.202952458,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 8197,
+    "fetch_seconds": 4.218768833
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 21545,
+    "fetch_seconds": 4.219438333
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 8922,
+    "fetch_seconds": 4.219844958
+  },
+  {
+    "page_id": "bbc-article",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 839,
+    "fetch_seconds": 0.395352083
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 9643,
+    "fetch_seconds": 3.092289833,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 6910,
+    "fetch_seconds": 3.103399667
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 7747,
+    "fetch_seconds": 4.416340458,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 6910,
+    "fetch_seconds": 4.424999083
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 23411,
+    "fetch_seconds": 4.425423
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 8483,
+    "fetch_seconds": 4.4257095
+  },
+  {
+    "page_id": "abc-sleep",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 3950,
+    "fetch_seconds": 0.859729958
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 17085,
+    "fetch_seconds": 0.592960542,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 12402,
+    "fetch_seconds": 0.619107
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 16858,
+    "fetch_seconds": 4.60001175,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 11045,
+    "fetch_seconds": 4.624612584
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 19495,
+    "fetch_seconds": 4.625074834
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 13506,
+    "fetch_seconds": 4.625312084
+  },
+  {
+    "page_id": "react-learn",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 2911,
+    "fetch_seconds": 0.529406542
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 431,
+    "fetch_seconds": 0.572728833,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 1549,
+    "fetch_seconds": 0.579427083
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 997,
+    "fetch_seconds": 4.226702041,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 3826,
+    "fetch_seconds": 4.242047708
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 25525,
+    "fetch_seconds": 4.242403583
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 24187,
+    "fetch_seconds": 4.2426475
+  },
+  {
+    "page_id": "observable-gallery",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 57,
+    "fetch_seconds": 0.525321083
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 12169,
+    "fetch_seconds": 1.090111167,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 15209,
+    "fetch_seconds": 1.16937825
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 12169,
+    "fetch_seconds": 4.090221875,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 15358,
+    "fetch_seconds": 4.168035
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 34738,
+    "fetch_seconds": 4.168496958
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 28272,
+    "fetch_seconds": 4.168759917
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 4969,
+    "fetch_seconds": 0.955749042
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "c4a-bare-readability",
+    "ok": false,
+    "error": "no text",
+    "characters": 0,
+    "fetch_seconds": 0.4127745,
+    "main_content_extracted": false
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 178,
+    "fetch_seconds": 0.413826417
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 8434,
+    "fetch_seconds": 1.761592917,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 8043,
+    "fetch_seconds": 1.776251583
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 13538,
+    "fetch_seconds": 1.776702375
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 8380,
+    "fetch_seconds": 1.77699175
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "error": "no text",
+    "characters": 0,
+    "fetch_seconds": 0.341843
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 2107,
+    "fetch_seconds": 1.5216924170000001,
+    "main_content_extracted": false
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 999,
+    "fetch_seconds": 1.5461917920000001
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "error": "no text",
+    "characters": 0,
+    "fetch_seconds": 5.128933917,
+    "main_content_extracted": false
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 78,
+    "fetch_seconds": 5.155451708
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "error": "no text",
+    "characters": 0,
+    "fetch_seconds": 5.155888875
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 79,
+    "fetch_seconds": 5.1561615419999995
+  },
+  {
+    "page_id": "youtube-video",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 77,
+    "fetch_seconds": 1.919560916
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "c4a-bare-readability",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/1706.03762\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.071917
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "c4a-bare-trafilatura",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/1706.03762\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.072474125
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/1706.03762\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.063010625
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/1706.03762\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.063551125
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/1706.03762\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.063893958
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://arxiv.org/pdf/1706.03762\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.06426525
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "error": "crawl4ai answered HTTP 502: {\"detail\":\"Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\\nError: Failed on navigating ACS-GOTO:\\nPage.goto: Download is starting\\nCall log:\\n  - navigating to \\\"https://arxiv.org/pdf/1706.03762\\\", waiting unti…",
+    "characters": 0,
+    "fetch_seconds": 0.063619958
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "c4a-bare-readability",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.196782292
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "c4a-bare-trafilatura",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.197310875
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.087385208
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.087894916
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.08827575
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on navigating ACS-GOTO:\nPage.goto: Download is starting\nCall log:\n  - navigating to \"https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf\", waiting until \"domcontentloaded\"\n\n\nCode context:\n 774                                   tag=\"GOTO\",\n 775                                   params={\"url\": url},\n 776                               )\n 777                               response = None\n 778                           else:\n 779 →                             raise RuntimeError(f\"Failed on navigating ACS-GOTO:\\n{str(e)}\")\n 780   \n 781                       # ──────────────────────────────────────────────────────────────\n 782                       # Walk the redirect chain.  Playwright returns only the last\n 783                       # hop, so we trace the `request.redirected_from` links until the\n 784                       # first response that differs from the final one and surface its",
+    "characters": 0,
+    "fetch_seconds": 0.088691625
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "error": "crawl4ai answered HTTP 502: {\"detail\":\"Unexpected error in _crawl_web at line 779 in _crawl_web (../usr/local/lib/python3.12/site-packages/crawl4ai/async_crawler_strategy.py):\\nError: Failed on navigating ACS-GOTO:\\nPage.goto: net::ERR_FAILED at https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_SPM_FINAL.pdf\\nCall log:\\n …",
+    "characters": 0,
+    "fetch_seconds": 0.047473125
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 17886,
+    "fetch_seconds": 0.321938541,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 18641,
+    "fetch_seconds": 0.349999958
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 17886,
+    "fetch_seconds": 3.895801584,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 18641,
+    "fetch_seconds": 3.924890584
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 23258,
+    "fetch_seconds": 3.925403334
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 21414,
+    "fetch_seconds": 3.92572125
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 5725,
+    "fetch_seconds": 0.370106625
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 90078,
+    "fetch_seconds": 1.951091542,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 88701,
+    "fetch_seconds": 2.061907458
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 90818,
+    "fetch_seconds": 6.136904125,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 88653,
+    "fetch_seconds": 6.24281675
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 659470,
+    "fetch_seconds": 6.24338475
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 575119,
+    "fetch_seconds": 6.244084583
+  },
+  {
+    "page_id": "ssc-moloch",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 60496,
+    "fetch_seconds": 3.172531084
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 68480,
+    "fetch_seconds": 0.782995125,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 68442,
+    "fetch_seconds": 0.80406625
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 68480,
+    "fetch_seconds": 3.909756667,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 68442,
+    "fetch_seconds": 3.930639084
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 70009,
+    "fetch_seconds": 3.931210375
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 66433,
+    "fetch_seconds": 3.931611042
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 157,
+    "fetch_seconds": 0.799605
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 794,
+    "fetch_seconds": 0.744681666,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 329,
+    "fetch_seconds": 0.749513625
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 794,
+    "fetch_seconds": 2.5227575,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 329,
+    "fetch_seconds": 2.527630792
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 2296,
+    "fetch_seconds": 2.528035875
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 747,
+    "fetch_seconds": 2.5283886669999998
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 132,
+    "fetch_seconds": 0.702597042
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 9216,
+    "fetch_seconds": 1.428821542,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 12512,
+    "fetch_seconds": 1.4460874590000001
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 296,
+    "fetch_seconds": 6.070625959,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 196,
+    "fetch_seconds": 6.076042334
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 297,
+    "fetch_seconds": 6.076554667
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 298,
+    "fetch_seconds": 6.077103125
+  },
+  {
+    "page_id": "abs-population",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 4891,
+    "fetch_seconds": 1.8324544999999999
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 3340,
+    "fetch_seconds": 0.474574292,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 3155,
+    "fetch_seconds": 0.479436542
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 3265,
+    "fetch_seconds": 4.06378325,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 3094,
+    "fetch_seconds": 4.069201083
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 5212,
+    "fetch_seconds": 4.069659333
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 3355,
+    "fetch_seconds": 4.07004975
+  },
+  {
+    "page_id": "nhs-concussion",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 1471,
+    "fetch_seconds": 0.451946125
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 9204,
+    "fetch_seconds": 0.98047175,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 9193,
+    "fetch_seconds": 0.997284916
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 9204,
+    "fetch_seconds": 4.320644667,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 9193,
+    "fetch_seconds": 4.332125292
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 29420,
+    "fetch_seconds": 4.332791333
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 10129,
+    "fetch_seconds": 4.333326667
+  },
+  {
+    "page_id": "who-depression",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 3386,
+    "fetch_seconds": 0.981865416
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "c4a-bare-readability",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 307): Blocked by anti-bot protection: Cloudflare JS challenge",
+    "characters": 0,
+    "fetch_seconds": 0.305455
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "c4a-bare-trafilatura",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 307): Blocked by anti-bot protection: Cloudflare JS challenge",
+    "characters": 0,
+    "fetch_seconds": 0.306206
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 636 in wrap_api_call (../usr/local/lib/python3.12/site-packages/playwright/_impl/_connection.py):\nError: Page.evaluate: Execution context was destroyed, most likely because of a navigation\n\nCode context:\n 631           )\n 632           self._api_zone.set(parsed_st)\n 633           try:\n 634               return await cb()\n 635           except Exception as error:\n 636 →             raise rewrite_error(error, f\"{parsed_st['apiName']}: {error}\") from None\n 637           finally:\n 638               self._api_zone.set(None)\n 639   \n 640       def wrap_api_call_sync(\n 641           self, cb: Callable[[], Any], is_internal: bool = False, title: str = None",
+    "characters": 0,
+    "fetch_seconds": 4.286614083
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 636 in wrap_api_call (../usr/local/lib/python3.12/site-packages/playwright/_impl/_connection.py):\nError: Page.evaluate: Execution context was destroyed, most likely because of a navigation\n\nCode context:\n 631           )\n 632           self._api_zone.set(parsed_st)\n 633           try:\n 634               return await cb()\n 635           except Exception as error:\n 636 →             raise rewrite_error(error, f\"{parsed_st['apiName']}: {error}\") from None\n 637           finally:\n 638               self._api_zone.set(None)\n 639   \n 640       def wrap_api_call_sync(\n 641           self, cb: Callable[[], Any], is_internal: bool = False, title: str = None",
+    "characters": 0,
+    "fetch_seconds": 4.287135166
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 636 in wrap_api_call (../usr/local/lib/python3.12/site-packages/playwright/_impl/_connection.py):\nError: Page.evaluate: Execution context was destroyed, most likely because of a navigation\n\nCode context:\n 631           )\n 632           self._api_zone.set(parsed_st)\n 633           try:\n 634               return await cb()\n 635           except Exception as error:\n 636 →             raise rewrite_error(error, f\"{parsed_st['apiName']}: {error}\") from None\n 637           finally:\n 638               self._api_zone.set(None)\n 639   \n 640       def wrap_api_call_sync(\n 641           self, cb: Callable[[], Any], is_internal: bool = False, title: str = None",
+    "characters": 0,
+    "fetch_seconds": 4.287733291
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 0): Unexpected error in _crawl_web at line 636 in wrap_api_call (../usr/local/lib/python3.12/site-packages/playwright/_impl/_connection.py):\nError: Page.evaluate: Execution context was destroyed, most likely because of a navigation\n\nCode context:\n 631           )\n 632           self._api_zone.set(parsed_st)\n 633           try:\n 634               return await cb()\n 635           except Exception as error:\n 636 →             raise rewrite_error(error, f\"{parsed_st['apiName']}: {error}\") from None\n 637           finally:\n 638               self._api_zone.set(None)\n 639   \n 640       def wrap_api_call_sync(\n 641           self, cb: Callable[[], Any], is_internal: bool = False, title: str = None",
+    "characters": 0,
+    "fetch_seconds": 4.2887465
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "error": "crawl4ai answered HTTP 502: {\"detail\":\"Blocked by anti-bot protection: Cloudflare JS challenge\"}",
+    "characters": 0,
+    "fetch_seconds": 0.301473125
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 29148,
+    "fetch_seconds": 1.038060125,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 23396,
+    "fetch_seconds": 1.074915333
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 29148,
+    "fetch_seconds": 4.3622695,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 23396,
+    "fetch_seconds": 4.401112709
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 58155,
+    "fetch_seconds": 4.401896834
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 36483,
+    "fetch_seconds": 4.402386334
+  },
+  {
+    "page_id": "hn-dropbox",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 4290,
+    "fetch_seconds": 0.924256
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 299,
+    "fetch_seconds": 1.257485041,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 10060,
+    "fetch_seconds": 1.375113666
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 44554,
+    "fetch_seconds": 6.297350666,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 44541,
+    "fetch_seconds": 6.323379791
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 45348,
+    "fetch_seconds": 6.324075
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 36968,
+    "fetch_seconds": 6.324500833
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "error": "no text",
+    "characters": 0,
+    "fetch_seconds": 2.361434833
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 1166,
+    "fetch_seconds": 2.108769917,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 1037,
+    "fetch_seconds": 2.168965167
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 403): Blocked by anti-bot protection: Cloudflare JS challenge",
+    "characters": 0,
+    "fetch_seconds": 1.824668708
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 403): Blocked by anti-bot protection: Cloudflare JS challenge",
+    "characters": 0,
+    "fetch_seconds": 1.825368458
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 403): Blocked by anti-bot protection: Cloudflare JS challenge",
+    "characters": 0,
+    "fetch_seconds": 1.825953792
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 403): Blocked by anti-bot protection: Cloudflare JS challenge",
+    "characters": 0,
+    "fetch_seconds": 1.82651075
+  },
+  {
+    "page_id": "wiley-sweller",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 13798,
+    "fetch_seconds": 1.704909125
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 4672,
+    "fetch_seconds": 2.42089175,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 6663,
+    "fetch_seconds": 2.4341829170000002
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 307): Blocked by anti-bot protection: Cloudflare JS challenge",
+    "characters": 0,
+    "fetch_seconds": 1.8373777919999998
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 307): Blocked by anti-bot protection: Cloudflare JS challenge",
+    "characters": 0,
+    "fetch_seconds": 1.838379458
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 307): Blocked by anti-bot protection: Cloudflare JS challenge",
+    "characters": 0,
+    "fetch_seconds": 1.8393152499999998
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 307): Blocked by anti-bot protection: Cloudflare JS challenge",
+    "characters": 0,
+    "fetch_seconds": 1.8403375419999999
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 1125,
+    "fetch_seconds": 1.486847042
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "c4a-bare-readability",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 403): Blocked by anti-bot protection: DataDome captcha",
+    "characters": 0,
+    "fetch_seconds": 0.420684625
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "c4a-bare-trafilatura",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 403): Blocked by anti-bot protection: DataDome captcha",
+    "characters": 0,
+    "fetch_seconds": 0.421339292
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 403): Blocked by anti-bot protection: DataDome captcha",
+    "characters": 0,
+    "fetch_seconds": 1.810571292
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 403): Blocked by anti-bot protection: DataDome captcha",
+    "characters": 0,
+    "fetch_seconds": 1.811303417
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 403): Blocked by anti-bot protection: DataDome captcha",
+    "characters": 0,
+    "fetch_seconds": 1.811783583
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "error": "crawl4ai could not crawl (HTTP 403): Blocked by anti-bot protection: DataDome captcha",
+    "characters": 0,
+    "fetch_seconds": 1.8127194580000001
+  },
+  {
+    "page_id": "nytimes-replication",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "error": "crawl4ai answered HTTP 502: {\"detail\":\"Blocked by anti-bot protection: DataDome captcha\"}",
+    "characters": 0,
+    "fetch_seconds": 0.368279125
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 2387,
+    "fetch_seconds": 0.863136291,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 9592,
+    "fetch_seconds": 0.898866833
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 2387,
+    "fetch_seconds": 6.598719292,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 86384,
+    "fetch_seconds": 6.737209625
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 118822,
+    "fetch_seconds": 6.7380756250000005
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 93925,
+    "fetch_seconds": 6.739821167
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 6120,
+    "fetch_seconds": 0.861894375
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 66814,
+    "fetch_seconds": 0.536144,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 63039,
+    "fetch_seconds": 0.577608292
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 66003,
+    "fetch_seconds": 4.313081875,
+    "main_content_extracted": true
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 63038,
+    "fetch_seconds": 4.362659625
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 101769,
+    "fetch_seconds": 4.363403125
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 68351,
+    "fetch_seconds": 4.36410775
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 32445,
+    "fetch_seconds": 0.598418416
+  }
+]

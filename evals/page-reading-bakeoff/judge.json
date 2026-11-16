@@ -1,0 +1,2513 @@
+[
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-full-raw-markdown",
+    "label": "A",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only navigation menus and author list; no article content."
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-full-fit-markdown",
+    "label": "B",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Abstract and array section present; some related-links boilerplate; cut off mid-text but covers answer."
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "plain-trafilatura",
+    "label": "C",
+    "answerable": 0,
+    "junk": 3,
+    "note": "JavaScript error message only."
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "plain-readability",
+    "label": "D",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Site load error only."
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-trafilatura",
+    "label": "E",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full text including closing summary of array programming model."
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-full-trafilatura",
+    "label": "F",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full text including closing summary of array programming model."
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-bm25-markdown",
+    "label": "G",
+    "answerable": 2,
+    "junk": 2,
+    "note": "Content present but cut before summary; heavy inline citation text and stray links."
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "firecrawl-readability",
+    "label": "H",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean main text with figure caption and summary sentence."
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "firecrawl-trafilatura",
+    "label": "I",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full text including closing summary."
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-full-readability",
+    "label": "J",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean main text with figure caption and summary sentence."
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-readability",
+    "label": "K",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean main text with figure caption and summary sentence."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "plain-readability",
+    "label": "A",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Bot check page only; no content."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-full-fit-markdown",
+    "label": "B",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Abstract gives findings and design; some header boilerplate."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean abstract and intro; findings and design in abstract."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-full-raw-markdown",
+    "label": "D",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract present but preceded by heavy navigation and icon boilerplate."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "plain-trafilatura",
+    "label": "E",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Bot check only."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-full-readability",
+    "label": "F",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean abstract and intro with findings and design."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-bm25-markdown",
+    "label": "G",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Abstract plus methods inclusion criteria, coding, effect sizes; richer design detail, clean."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "firecrawl-trafilatura",
+    "label": "H",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean abstract and intro with findings and design."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "firecrawl-readability",
+    "label": "I",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean abstract and intro with findings and design."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-readability",
+    "label": "J",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean abstract and intro with findings and design."
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-full-trafilatura",
+    "label": "K",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean abstract and intro with findings and design."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-full-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract lists all corollary conditions; duplicated figure image links add clutter."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-bm25-markdown",
+    "label": "B",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Abstract lists conditions; stray xml artifact and short TOC only."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "plain-readability",
+    "label": "C",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Abstract lists conditions; some image links and metrics header."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-full-fit-markdown",
+    "label": "D",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Abstract lists conditions; very clean, almost no boilerplate."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-trafilatura",
+    "label": "E",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Abstract lists conditions; clean content, minimal boilerplate."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "firecrawl-trafilatura",
+    "label": "F",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Abstract lists conditions; clean, same as E."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "firecrawl-readability",
+    "label": "G",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract lists conditions; repeated figure image links dilute text."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-full-raw-markdown",
+    "label": "H",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract lists conditions; heavy nav, metrics header, and repeated image links."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "plain-trafilatura",
+    "label": "I",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Abstract lists conditions; clean, minimal boilerplate."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-readability",
+    "label": "J",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract lists conditions; TOC and duplicate figure links add clutter."
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-full-trafilatura",
+    "label": "K",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Abstract lists conditions; clean with little boilerplate."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "plain-trafilatura",
+    "label": "A",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract names Transformer and 28.4 BLEU; half the text is tool-list boilerplate."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-full-fit-markdown",
+    "label": "B",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Full abstract present; author links and many tool/bookmark sections dilute it."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-full-raw-markdown",
+    "label": "C",
+    "answerable": 3,
+    "junk": 3,
+    "note": "Abstract present but buried in nav, links, footer and funder boilerplate."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-bm25-markdown",
+    "label": "D",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Nearly only the abstract, with a tiny bit of trailing junk."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-trafilatura",
+    "label": "E",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract complete; later half is arXiv tool and labs boilerplate."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "plain-readability",
+    "label": "F",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Abstract plus a submission history list, which is easy to skip."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-readability",
+    "label": "G",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Abstract plus a submission history list, which is easy to skip."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-full-readability",
+    "label": "H",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Abstract plus a submission history list, which is easy to skip."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-full-trafilatura",
+    "label": "I",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract complete; much of the rest is tool/labs boilerplate."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "firecrawl-readability",
+    "label": "J",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Abstract plus a submission history list, which is easy to skip."
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "firecrawl-trafilatura",
+    "label": "K",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract complete; much of the rest is tool/labs boilerplate."
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "firecrawl-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full abstract present with metadata; some login/purchase boilerplate and journal info."
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "plain-trafilatura",
+    "label": "B",
+    "answerable": 0,
+    "junk": 3,
+    "note": "JavaScript error HTML only."
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "firecrawl-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full abstract; only brief journal/publisher blurbs follow."
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-full-raw-markdown",
+    "label": "D",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Site load error only."
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-full-readability",
+    "label": "E",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Site load error only."
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "plain-readability",
+    "label": "F",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Site load error only."
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-full-trafilatura",
+    "label": "G",
+    "answerable": 0,
+    "junk": 3,
+    "note": "JavaScript error HTML only."
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-full-fit-markdown",
+    "label": "H",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Site load error only."
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-readability",
+    "label": "I",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Captcha challenge with base64 image; no content."
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-trafilatura",
+    "label": "J",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Captcha challenge page; no content."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "firecrawl-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full article text, answers fully; only image captions as minor clutter."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-bare-trafilatura",
+    "label": "B",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full article, complete answer."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "firecrawl-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full article, complete answer."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-bm25-markdown",
+    "label": "D",
+    "answerable": 2,
+    "junk": 2,
+    "note": "Has study details and iodine but lacks the explicit micronutrient list sentence; trailing related-links junk."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-full-trafilatura",
+    "label": "E",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full article, complete answer."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "plain-readability",
+    "label": "F",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full article with image captions; complete answer."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-full-raw-markdown",
+    "label": "G",
+    "answerable": 2,
+    "junk": 3,
+    "note": "Mostly navigation menus; truncated after first two paragraphs, which do name nutrients but not the study."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-full-readability",
+    "label": "H",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full article, complete answer, minor captions."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-bare-readability",
+    "label": "I",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full article, complete answer, minor captions."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-full-fit-markdown",
+    "label": "J",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full article answer; trailing most-viewed and related links add some junk."
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "plain-trafilatura",
+    "label": "K",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full article, complete answer."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-bare-trafilatura",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full article content with quote from McCarthy; a few related-link items and newsletter."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "plain-readability",
+    "label": "B",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full content, quote, byline; image descriptions add clutter; truncated at end."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-bare-readability",
+    "label": "C",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Same as B: complete content and quote, image alt text clutter."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "firecrawl-readability",
+    "label": "D",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete article and quote; image markdown clutter; cut off near end."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "plain-trafilatura",
+    "label": "E",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full content and quote; a few related-link items and newsletter blurb."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "firecrawl-trafilatura",
+    "label": "F",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full article, quote included, minimal newsletter line."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-full-fit-markdown",
+    "label": "G",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full article with byline; related links, captions, topics footer minor."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-full-raw-markdown",
+    "label": "H",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Full article but heavy nav menu at start dilutes; truncated."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-full-trafilatura",
+    "label": "I",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full article with quote; only newsletter line extra."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-bm25-markdown",
+    "label": "J",
+    "answerable": 2,
+    "junk": 2,
+    "note": "Fragmentary key sentences incl. quote, but missing detail plus unrelated Black Sky headline."
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-full-readability",
+    "label": "K",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full article with byline and quote; no boilerplate."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "plain-trafilatura",
+    "label": "A",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full answer: four in ten; ~1% of adults with insomnia access CBTi. Clean article."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "firecrawl-trafilatura",
+    "label": "B",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Both facts present; clean text only."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "firecrawl-readability",
+    "label": "C",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Both facts present; image markdown and captions add some clutter."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-bare-readability",
+    "label": "D",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Both facts present; image links and captions add mild clutter."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-bare-trafilatura",
+    "label": "E",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Both facts present; clean."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-full-raw-markdown",
+    "label": "F",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Both facts present; header nav, share links, top stories dilute."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-full-readability",
+    "label": "G",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Both facts present; captions are minor clutter."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-full-trafilatura",
+    "label": "H",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Both facts present; clean."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "plain-readability",
+    "label": "I",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Both facts present; image markdown and captions add clutter."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-full-fit-markdown",
+    "label": "J",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Both facts present; captcha text, skip links, captions add junk."
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-bm25-markdown",
+    "label": "K",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Both facts present but fragmentary; trailing headlines and footer junk."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "plain-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full displaying data and events sections, clean markdown with code."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-bare-readability",
+    "label": "B",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Same clean content; both sections complete."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-bare-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete sections, inline code collapsed but readable, clean."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-full-readability",
+    "label": "D",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete text but tags mangled and entity-escaped code, some noise."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-full-raw-markdown",
+    "label": "E",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete sections; header junk, editor buttons, garbled tags."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-full-fit-markdown",
+    "label": "F",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete prose, but code heavily stripped, editor UI text present."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-full-trafilatura",
+    "label": "G",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Prose complete for both topics; some mangled code and missing examples."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-bm25-markdown",
+    "label": "H",
+    "answerable": 2,
+    "junk": 2,
+    "note": "Nav menus, fragmentary; has displaying data and event intro only, no examples."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "firecrawl-trafilatura",
+    "label": "I",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean, complete both sections."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "plain-trafilatura",
+    "label": "J",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean, complete both sections."
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "firecrawl-readability",
+    "label": "K",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean, complete both sections with code."
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "firecrawl-readability",
+    "label": "A",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only a code function for previews; no chart info."
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-full-trafilatura",
+    "label": "B",
+    "answerable": 2,
+    "junk": 1,
+    "note": "Category descriptions and some chart types named, but no example list; code appendix junk."
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-bare-readability",
+    "label": "C",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only JS code snippet, nothing about charts."
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-bm25-markdown",
+    "label": "D",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only page title repeated."
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-full-raw-markdown",
+    "label": "E",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Categories with many named chart examples; minor header clutter."
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-full-readability",
+    "label": "F",
+    "answerable": 1,
+    "junk": 3,
+    "note": "Only code and URL list of slugs; hints at chart names but mostly junk."
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "firecrawl-trafilatura",
+    "label": "G",
+    "answerable": 2,
+    "junk": 1,
+    "note": "Category descriptions, a few chart types; no example titles; code appendix."
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-full-fit-markdown",
+    "label": "H",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Categories with extensive named chart examples; link markup verbose but content-rich."
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-bare-trafilatura",
+    "label": "I",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only notebook code cells, no gallery content."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "firecrawl-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Describes the indicator and sources fully; lacks title but boilerplate is modest."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "firecrawl-trafilatura",
+    "label": "B",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Title, description, data source, key takeaways, and source details; little junk."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-bare-readability",
+    "label": "C",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Indicator definition and sources clearly given; no title header, but content is mostly relevant."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-full-fit-markdown",
+    "label": "D",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Title, definition, sources present, but long country ranking list dilutes content."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-full-readability",
+    "label": "E",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Definition and sources explained; lacks title but little junk."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-full-trafilatura",
+    "label": "F",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Title, description, source line, and detailed sources; minimal junk."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-full-raw-markdown",
+    "label": "G",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Title, source line, definition up front, but long country list adds bulk."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "plain-trafilatura",
+    "label": "H",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Clear title, definition, sources, and takeaways; little junk."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "plain-readability",
+    "label": "I",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Definition and sources complete; missing title but focused."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-bm25-markdown",
+    "label": "J",
+    "answerable": 2,
+    "junk": 2,
+    "note": "Has source line and combining explanation, but lacks definition; API code, footer boilerplate."
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-bare-trafilatura",
+    "label": "K",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Title, description, sources, takeaways all present; mostly relevant."
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-full-fit-markdown",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full training data (WebText, Reddit) and limitations present; minor trailing boilerplate, code examples."
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-bare-trafilatura",
+    "label": "B",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Bot check/JavaScript-disabled message only."
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "firecrawl-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete training data and limitations; slight trailing link clutter, mangled table."
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "plain-trafilatura",
+    "label": "D",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Same as C: full answer, small trailing link clutter."
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-full-readability",
+    "label": "E",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; anchor-link headings add noise but little junk."
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "plain-readability",
+    "label": "F",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; heading anchor links add minor noise."
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-full-raw-markdown",
+    "label": "G",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Full answer present but starts with nav menus and tags; truncated at table."
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "firecrawl-readability",
+    "label": "H",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; minor anchor link noise."
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-full-trafilatura",
+    "label": "I",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; small trailing link clutter."
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "firecrawl-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Description names song/Rick Astley and channel link; heavy redirect URLs and lyrics dilute; no explicit title line."
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "plain-readability",
+    "label": "B",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only footer links."
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-full-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Gives full title; 'Rick Astley' in title implies publisher, clean."
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-full-fit-markdown",
+    "label": "D",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full title with Rick Astley; clean."
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "plain-trafilatura",
+    "label": "E",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Footer boilerplate only."
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-bare-trafilatura",
+    "label": "F",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Title and channel Rick Astley present, amid player UI junk."
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-bare-readability",
+    "label": "G",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Title and channel Rick Astley with link; player UI and footer junk."
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "firecrawl-trafilatura",
+    "label": "H",
+    "answerable": 2,
+    "junk": 3,
+    "note": "Channel Rick Astley shown but no title; mostly recommendations list."
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-bm25-markdown",
+    "label": "I",
+    "answerable": 1,
+    "junk": 2,
+    "note": "Only playlist name and player bits; no title or clear publisher."
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "firecrawl-readability",
+    "label": "A",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Text cuts off right at 3.2.1 start; only general attention description and figure labels, no formula."
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "firecrawl-trafilatura",
+    "label": "B",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Identical to A; truncated before the definition and formula; author emails and front matter are minor junk."
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "firecrawl-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Contains the 'unequivocal' statement with supporting details; author lists are skippable boilerplate."
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "firecrawl-trafilatura",
+    "label": "B",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Identical to A: includes the unequivocal statement; author lists are minor junk."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-full-trafilatura",
+    "label": "A",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Cuts off before the Dual LLM section; only background and TOC."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "firecrawl-readability",
+    "label": "B",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Truncated before the Dual LLM section; background only."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-full-raw-markdown",
+    "label": "C",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Truncated before the Dual LLM section; has header and nav."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "firecrawl-trafilatura",
+    "label": "D",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Truncated before the Dual LLM section."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "plain-readability",
+    "label": "E",
+    "answerable": 2,
+    "junk": 1,
+    "note": "Reaches the Dual LLM heading and defines the Privileged LLM, but cuts off mid-sentence."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-bm25-markdown",
+    "label": "F",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Fragmented extract with the full pattern: Privileged, Quarantined, Controller, variables. Small footer junk."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-bare-readability",
+    "label": "G",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Truncated before the Dual LLM section."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "plain-trafilatura",
+    "label": "H",
+    "answerable": 2,
+    "junk": 1,
+    "note": "Starts the Dual LLM section but cuts off after the Privileged LLM intro."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-full-readability",
+    "label": "I",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Truncated before the Dual LLM section."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-bare-trafilatura",
+    "label": "J",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Truncated before the Dual LLM section."
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-full-fit-markdown",
+    "label": "K",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Truncated before the Dual LLM section; has site header."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "plain-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full text with Moloch definition and examples 1-4; long poem, tracking links are minor junk."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "firecrawl-trafilatura",
+    "label": "B",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Same content, cleaner links; Moloch meaning and examples 1-4 present, poem dominates."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-full-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Same as B; Moloch explained, examples 1-4 given, long poem."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "plain-trafilatura",
+    "label": "D",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Same as B; clear explanation and first four examples."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-bm25-markdown",
+    "label": "E",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Condensed key passages covering Moloch and many examples (arms races, education, corruption, science); no boilerplate."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-full-raw-markdown",
+    "label": "F",
+    "answerable": 1,
+    "junk": 3,
+    "note": "Mostly archive/blogroll menus; only poem start, answer not reached."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "firecrawl-readability",
+    "label": "G",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full text with definition and examples 1-4; tracking links minor."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-bare-trafilatura",
+    "label": "H",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Same content as B; definition and first four examples."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-full-readability",
+    "label": "I",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Same as A; definition and examples 1-4 present."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-bare-readability",
+    "label": "J",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Same as A; definition and examples 1-4 present."
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-full-fit-markdown",
+    "label": "K",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Short nav header, then definition and examples 1-3 with fish farm; truncated early."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-full-fit-markdown",
+    "label": "A",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full intro and four steps present, clean prose, no boilerplate."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-full-raw-markdown",
+    "label": "B",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Complete answer but heavy image/link markup and footnote links dilute text."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-full-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; only footnote link markers as minor clutter."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-bare-trafilatura",
+    "label": "D",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; only footnote link markers as minor clutter."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "firecrawl-trafilatura",
+    "label": "E",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; only footnote link markers as minor clutter."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "plain-readability",
+    "label": "F",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; title image and inline footnote links minor clutter."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "firecrawl-readability",
+    "label": "G",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; title image and inline footnote links minor clutter."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-bm25-markdown",
+    "label": "H",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only footnote numbers and a quote; no relevant content."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "plain-trafilatura",
+    "label": "I",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; only footnote link markers as minor clutter."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-full-readability",
+    "label": "J",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; title image and inline footnote links minor clutter."
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-bare-readability",
+    "label": "K",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete answer; title image and inline footnote links minor clutter."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "plain-trafilatura",
+    "label": "A",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Title and subtitle only; paywalled, no argument present."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "c4a-full-readability",
+    "label": "B",
+    "answerable": 1,
+    "junk": 2,
+    "note": "Subtitle and paywall prompt; no argument, image links add clutter."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "firecrawl-trafilatura",
+    "label": "C",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Title and subtitle only; no argument."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "firecrawl-readability",
+    "label": "D",
+    "answerable": 1,
+    "junk": 2,
+    "note": "Subtitle plus paywall boilerplate; no argument."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "c4a-bm25-markdown",
+    "label": "E",
+    "answerable": 1,
+    "junk": 0,
+    "note": "Only title and subtitle, clean but no argument."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "plain-readability",
+    "label": "F",
+    "answerable": 1,
+    "junk": 2,
+    "note": "Subtitle and paywall boilerplate; no argument."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "c4a-full-fit-markdown",
+    "label": "G",
+    "answerable": 1,
+    "junk": 2,
+    "note": "Title, subtitle, subscribe/footer junk; no argument."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "c4a-bare-readability",
+    "label": "H",
+    "answerable": 1,
+    "junk": 2,
+    "note": "Subtitle plus paywall boilerplate; no argument."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "c4a-full-raw-markdown",
+    "label": "I",
+    "answerable": 1,
+    "junk": 3,
+    "note": "Mostly nav, subscribe prompts, footer; no argument content."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "c4a-full-trafilatura",
+    "label": "J",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Title and subtitle only; no argument."
+  },
+  {
+    "page_id": "substack-prompt-injection",
+    "group": "blog",
+    "cell": "c4a-bare-trafilatura",
+    "label": "K",
+    "answerable": 1,
+    "junk": 1,
+    "note": "Title and subtitle only; no argument."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "firecrawl-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Key statistics give population 27,921,150 and 1.4% annual growth; some boilerplate and links."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-full-readability",
+    "label": "B",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only skip-navigation links."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "plain-trafilatura",
+    "label": "C",
+    "answerable": 2,
+    "junk": 2,
+    "note": "Has 392,700 (1.4%) growth but no total population figure; huge chart data dumps."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-full-trafilatura",
+    "label": "D",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Skip links and GTM iframe only."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-full-fit-markdown",
+    "label": "E",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only skip links."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "firecrawl-trafilatura",
+    "label": "F",
+    "answerable": 2,
+    "junk": 3,
+    "note": "Growth 392,700 (1.4%) present, no total population; mostly chart data dumps."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-bm25-markdown",
+    "label": "G",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Has population 27,921,150 and 1.4% growth, but fragmentary with nav and stubs."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "plain-readability",
+    "label": "H",
+    "answerable": 2,
+    "junk": 1,
+    "note": "Growth 392,700 (1.4%) given; total population only in state table (27921.2 thousand)."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-bare-trafilatura",
+    "label": "I",
+    "answerable": 2,
+    "junk": 3,
+    "note": "Growth 1.4% present, no headline population; overwhelmed by raw chart data."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-full-raw-markdown",
+    "label": "J",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only skip links."
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-bare-readability",
+    "label": "K",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Key statistics give both population and growth cleanly; some download boilerplate."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-bm25-markdown",
+    "label": "A",
+    "answerable": 1,
+    "junk": 3,
+    "note": "Cookie/nav text; symptom lists for 999 and 111 are missing."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "plain-trafilatura",
+    "label": "B",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full 999 and 111 symptom lists plus A\u0026E note, clean."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-full-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full symptom lists and A\u0026E note, clean."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "firecrawl-trafilatura",
+    "label": "D",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full symptom lists and A\u0026E note, clean."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "plain-readability",
+    "label": "E",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete lists with intro; a stray 'Information:' label only."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-full-raw-markdown",
+    "label": "F",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Complete lists, but header and footer navigation links add clutter."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-bare-trafilatura",
+    "label": "G",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full symptom lists and A\u0026E note, clean."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-full-fit-markdown",
+    "label": "H",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete lists, clean, includes title."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "firecrawl-readability",
+    "label": "I",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete lists, clean."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-bare-readability",
+    "label": "J",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete lists, clean."
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-full-readability",
+    "label": "K",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete lists, clean."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "plain-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full content: 322 million, 5.2%, treatments listed; clean body and references."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "firecrawl-trafilatura",
+    "label": "B",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete figures and treatments; clean article text."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-full-readability",
+    "label": "C",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete figures and treatments; clean."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-full-fit-markdown",
+    "label": "D",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full answer; small header, related links, and fact-sheet list at end."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "plain-trafilatura",
+    "label": "E",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete figures and treatments; clean."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "firecrawl-readability",
+    "label": "F",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete figures and treatments; clean."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-full-raw-markdown",
+    "label": "G",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only navigation menus; no article content before truncation."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-full-trafilatura",
+    "label": "H",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete figures and treatments; clean."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-bm25-markdown",
+    "label": "I",
+    "answerable": 2,
+    "junk": 1,
+    "note": "Has 322 million and treatment categories, but list of specific therapies and medicines missing."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-bare-readability",
+    "label": "J",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete figures and treatments; clean."
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-bare-trafilatura",
+    "label": "K",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Complete figures and treatments; clean."
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "firecrawl-trafilatura",
+    "label": "A",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full branch prediction explanation, benchmarks; images missing but text complete and clean."
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "firecrawl-readability",
+    "label": "B",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Same full explanation plus image alt text and links; essentially clean."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "plain-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Top comment's qualms plus trust and install criticisms present; only vote/spacer image noise."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-bare-readability",
+    "label": "B",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Same as A: full criticisms present, minor vote-link and spacer noise."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "plain-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean comment text with all criticisms, including trust and USB replacement."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-bare-trafilatura",
+    "label": "D",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean comments with all main criticisms and replies."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-full-raw-markdown",
+    "label": "E",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Criticisms present but heavy nav, link and table markup bloat; truncated early."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "firecrawl-trafilatura",
+    "label": "F",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean thread text covering all main criticisms."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-full-fit-markdown",
+    "label": "G",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Has top criticisms and trust issue; header nav and link markup, truncated."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-bm25-markdown",
+    "label": "H",
+    "answerable": 2,
+    "junk": 1,
+    "note": "Jumbled fragments; misses the main numbered qualms comment, only partial criticisms."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "firecrawl-readability",
+    "label": "I",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full criticisms present with vote/spacer image noise."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-full-trafilatura",
+    "label": "J",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean full comments including the top qualms and trust concern."
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-full-readability",
+    "label": "K",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full criticisms present; vote/spacer image noise only."
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-full-trafilatura",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Shows intro purpose and section structure with full link lists; mostly navigation but that is the page."
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "plain-readability",
+    "label": "B",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Reddit login wall only."
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-bare-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Purpose statement and headings by region, period, military, topic, study of history; some edit-lock noise."
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-full-readability",
+    "label": "D",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Purpose, jump-to list of sections, and detailed contents; link-heavy but is the page."
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-bare-readability",
+    "label": "E",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Reddit login wall only."
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "plain-trafilatura",
+    "label": "F",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Same as C: clear headings structure and purpose; minor edit-lock noise."
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-full-fit-markdown",
+    "label": "G",
+    "answerable": 2,
+    "junk": 2,
+    "note": "Purpose present but many link labels stripped, so structure partly unclear."
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-full-raw-markdown",
+    "label": "H",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Purpose and full jump-to section list with clean nested structure."
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "c4a-bare-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full abstract present, minimal extras; lacks title but fine."
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "c4a-bm25-markdown",
+    "label": "B",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract present with title, but followed by large block of reference link clutter."
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "firecrawl-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Abstract plus duplicated author block and long reference list with links."
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "c4a-bare-trafilatura",
+    "label": "D",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean title, abstract, pages; almost no junk."
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "firecrawl-readability",
+    "label": "E",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Full abstract, little extra beyond author block and empty headings."
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "c4a-bare-trafilatura",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Abstract gives argument; contributor bio names Pfaff as author; some notes and references clutter."
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "c4a-bare-readability",
+    "label": "B",
+    "answerable": 2,
+    "junk": 1,
+    "note": "Abstract gives argument, but author name absent; only footnotes remain."
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "c4a-bm25-markdown",
+    "label": "C",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only access-option boilerplate and page UI; no argument or author."
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "firecrawl-readability",
+    "label": "D",
+    "answerable": 2,
+    "junk": 1,
+    "note": "Abstract gives argument, but no author name; footnotes only."
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "firecrawl-trafilatura",
+    "label": "E",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Abstract plus author bio naming C. Anthony Pfaff; footnotes and references minor clutter."
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-full-readability",
+    "label": "A",
+    "answerable": 1,
+    "junk": 0,
+    "note": "Only a later answer (life is a symbol of existence); top answer missing."
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "firecrawl-readability",
+    "label": "B",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Network block page; no content."
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-bare-readability",
+    "label": "C",
+    "answerable": 1,
+    "junk": 0,
+    "note": "Same as A: only a non-top answer, clean text."
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-full-fit-markdown",
+    "label": "D",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Top answer in full: no meaning, do things you like; small ad and related links."
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-bm25-markdown",
+    "label": "E",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Top answer key lines present; some duplication and related-question list."
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-full-raw-markdown",
+    "label": "F",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Full top answer, but heavy link markup, images, ad, topic lists, duplicates."
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-bare-trafilatura",
+    "label": "G",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Top answer in full, clean; duplicated snippets of other answers."
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-full-trafilatura",
+    "label": "H",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Top answer in full; further answers and duplicates are mild clutter."
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "firecrawl-trafilatura",
+    "label": "I",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Block message only."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-bm25-markdown",
+    "label": "A",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Lead lists three types clearly; some stray nav fragments at start."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-bare-readability",
+    "label": "B",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean content, three types listed up front."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-full-raw-markdown",
+    "label": "C",
+    "answerable": 0,
+    "junk": 3,
+    "note": "Only menus and donation banner; no article content in the excerpt."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-bare-trafilatura",
+    "label": "D",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Three types listed; edit-link residue slightly noisy."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "firecrawl-readability",
+    "label": "E",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean article text with types defined."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "plain-trafilatura",
+    "label": "F",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Types listed; some edit-link clutter."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-full-readability",
+    "label": "G",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean content with all three types."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "plain-readability",
+    "label": "H",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean content with all three types."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "firecrawl-trafilatura",
+    "label": "I",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Types listed; malformed link URLs add noise."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-full-fit-markdown",
+    "label": "J",
+    "answerable": 3,
+    "junk": 2,
+    "note": "Types listed, but large donation banner precedes content."
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-full-trafilatura",
+    "label": "K",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Types listed; edit-link residue slightly noisy."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "firecrawl-readability",
+    "label": "A",
+    "answerable": 3,
+    "junk": 0,
+    "note": "States s-shaped, asymmetric, steeper for losses, concave gains/convex losses, reference point."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-bare-trafilatura",
+    "label": "B",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Has dedicated Value function section: concave gains, convex losses, steeper losses; some edit-link clutter."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "firecrawl-trafilatura",
+    "label": "C",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Full value function details; links malformed but content complete, minor clutter."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-bare-readability",
+    "label": "D",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean; s-shaped, steeper for losses, concave/convex, reference point, formulas."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-full-fit-markdown",
+    "label": "E",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean content with s-shaped, loss steeper, concave/convex, reference point."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-full-raw-markdown",
+    "label": "F",
+    "answerable": 1,
+    "junk": 3,
+    "note": "Truncated within navigation menus and language lists; no value function content."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-full-trafilatura",
+    "label": "G",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Value function section present with concavity, convexity, steeper losses; edit-link clutter."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-bm25-markdown",
+    "label": "H",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Fragmentary but has s-shaped, steeper losses, value function section; some stray symbols."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "plain-trafilatura",
+    "label": "I",
+    "answerable": 3,
+    "junk": 1,
+    "note": "Value function section covers concave, convex, steeper losses; minor clutter."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-full-readability",
+    "label": "J",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean; s-shaped, asymmetric, concave/convex, steeper losses, reference point."
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "plain-readability",
+    "label": "K",
+    "answerable": 3,
+    "junk": 0,
+    "note": "Clean and complete on value function features and formulas."
+  }
+]

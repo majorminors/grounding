@@ -1,0 +1,26 @@
+# Binary
+grounding
+
+# Downloaded files (AA fast_download / IPFS)
+downloads/
+
+# IDE
+.idea/
+.claude/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# Python bytecode from the crawl4ai render service and its tests.
+__pycache__/

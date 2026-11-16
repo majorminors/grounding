@@ -1,0 +1,3192 @@
+[
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 186,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 131,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 168638,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 152725,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 168637,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 152724,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 168637,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 152724,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 182033,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 174245,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "pmc-article",
+    "group": "scholarly-html",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 26852,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 209,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 569,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 63182,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 40021,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 63182,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 40021,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 63182,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 40021,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 101077,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 55213,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nature-numpy",
+    "group": "scholarly-html",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 34474,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 50214,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 39135,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 50443,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 39135,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 52338,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 39135,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 50715,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 39135,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 70123,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 41900,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "plos-ioannidis",
+    "group": "scholarly-html",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 32364,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 1963,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 3949,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 2060,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 3965,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 1963,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 3949,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 1963,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 3949,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 9503,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 6197,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-abstract",
+    "group": "scholarly-html",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 1475,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 209,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 569,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 3894,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 2316,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 9900,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 280,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 209,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 569,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 211,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 211,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "jstor-prospect",
+    "group": "scholarly-html",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 5016,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 4262,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 5016,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 4262,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 5016,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 4262,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 5016,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 4262,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 21551,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 7340,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "guardian-plant-milk",
+    "group": "news",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 3281,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 10209,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 8608,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 10159,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 8188,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 10209,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 8608,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 8159,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 8197,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 21545,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 8922,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "bbc-article",
+    "group": "news",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 839,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 9643,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 6910,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 9643,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 6910,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 9643,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 6910,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 7747,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 6910,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 23411,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 8483,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "abc-sleep",
+    "group": "news",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 3950,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 17085,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 12402,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 17085,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 12402,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 17085,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 12402,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 16858,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 11045,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 19495,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 13506,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "react-learn",
+    "group": "javascript-built",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 2911,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "plain-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 865,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 3323,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 431,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 1549,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 997,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 3826,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 25525,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 24187,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "observable-gallery",
+    "group": "javascript-built",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 57,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 12169,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 15209,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 12172,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 15374,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 12169,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 15209,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 12169,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 15358,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 34738,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 28272,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "owid-life-expectancy",
+    "group": "javascript-built",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 4969,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 8434,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 8043,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 8434,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 8043,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-bare-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 178,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 8434,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 8043,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 13538,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 8380,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "huggingface-gpt2",
+    "group": "javascript-built",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 837,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 145,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 6105,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 1883,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 2107,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 999,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 78,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 79,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "youtube-video",
+    "group": "javascript-built",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 77,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "plain-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 44520,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 44520,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "c4a-bare-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "c4a-bare-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "arxiv-pdf",
+    "group": "pdf",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "plain-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 120124,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 120124,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "c4a-bare-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "c4a-bare-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "ipcc-spm-pdf",
+    "group": "pdf",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 17145,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 17794,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 17886,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 18641,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 17886,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 18641,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 17886,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 18641,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 23258,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 21414,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "willison-dual-llm",
+    "group": "blog",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 5725,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 90078,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 88701,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 90078,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 88701,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 90078,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 88701,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 90818,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 88653,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 659470,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 575119,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "ssc-moloch",
+    "group": "blog",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 60496,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 68480,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 68442,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 68480,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 68442,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 68480,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 68442,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 68480,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 68442,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 70009,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 66433,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "paulgraham-great-work",
+    "group": "blog",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 157,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 9512,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 12583,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 10330,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 12782,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 9216,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 12512,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 296,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 196,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 297,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 298,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "abs-population",
+    "group": "government",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 4891,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 3340,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 3155,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 3340,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 3155,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 3340,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 3155,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 3265,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 3094,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 5212,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 3355,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "nhs-concussion",
+    "group": "government",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 1471,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 9204,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 9193,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 9204,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 9193,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 9204,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 9193,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 9204,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 9193,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 29420,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 10129,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "who-depression",
+    "group": "government",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 3386,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "plain-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 7987,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 7735,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "c4a-bare-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "c4a-bare-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "stackoverflow-sorted-array",
+    "group": "forum",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 29148,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 23396,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 29148,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 23396,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 29148,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 23396,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 29148,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 23396,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 58155,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 36483,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "hn-dropbox",
+    "group": "forum",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 4290,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 299,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 10060,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "firecrawl-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "firecrawl-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 299,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 10060,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 44554,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 44541,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 45348,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 36968,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "reddit-askhistorians-faq",
+    "group": "forum",
+    "cell": "c4a-bm25-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "plain-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 1166,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 31654,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 1166,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 1037,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "wiley-sweller",
+    "group": "bot-protected",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 13798,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "plain-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 4672,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 6663,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 4672,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 6663,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "c4a-full-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "c4a-full-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "c4a-full-raw-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "c4a-full-fit-markdown",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "tandf-pfaff",
+    "group": "bot-protected",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 1125,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 1
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "plain-readability",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "plain-trafilatura",
+    "ok": false,
+    "characters": 0,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 258,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 113,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 2387,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 9592,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 2387,
+    "passages_found": 0,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 86384,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 118822,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 93925,
+    "passages_found": 2,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "quora-meaning-of-life",
+    "group": "bot-protected",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 6120,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 81263,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 76564,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 80837,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 81161,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 81551,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 76852,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 81263,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 76564,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 114366,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 77507,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-cognitive-load",
+    "group": "wikipedia",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 49318,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "plain-readability",
+    "ok": true,
+    "characters": 66706,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "plain-trafilatura",
+    "ok": true,
+    "characters": 62931,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "firecrawl-readability",
+    "ok": true,
+    "characters": 73293,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "firecrawl-trafilatura",
+    "ok": true,
+    "characters": 67783,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-bare-readability",
+    "ok": true,
+    "characters": 66814,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-bare-trafilatura",
+    "ok": true,
+    "characters": 63039,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-full-readability",
+    "ok": true,
+    "characters": 66003,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-full-trafilatura",
+    "ok": true,
+    "characters": 63038,
+    "passages_found": 1,
+    "passages_found_in_first_window": 1,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-full-raw-markdown",
+    "ok": true,
+    "characters": 101769,
+    "passages_found": 2,
+    "passages_found_in_first_window": 0,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-full-fit-markdown",
+    "ok": true,
+    "characters": 68351,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  },
+  {
+    "page_id": "wikipedia-prospect-theory",
+    "group": "wikipedia",
+    "cell": "c4a-bm25-markdown",
+    "ok": true,
+    "characters": 32445,
+    "passages_found": 2,
+    "passages_found_in_first_window": 2,
+    "passages": 2
+  }
+]
