@@ -22,8 +22,9 @@ import (
 //  3. Firecrawl: a paid browser with proxies that gets past more bot
 //     checks, held to a daily credit cap.
 //
-// It climbs when a rung is blocked (a bot check or block page, HTTP
-// 401, 403, 429 or 5xx, a failed render, no readable text) or reads a
+// It climbs when a rung is blocked (a bot check or block page, nothing
+// but a cookie or consent notice, HTTP 401, 403, 429 or 5xx, a failed
+// render, no readable text) or reads a
 // page with almost no text outside its links (a sign-in wall, or a page
 // built by JavaScript). It stops at once on what no browser changes: an
 // address that is not public, a page that is not there, a file that is
@@ -78,6 +79,9 @@ func judgeWebPageRung(text *WebPageText, err error) webPageRungResult {
 	}
 	if phrase := botCheckOrBlockPagePhrase(text.Text); phrase != "" {
 		return webPageRungResult{outcome: webPageRungBlocked, reason: fmt.Sprintf("was served a bot check or block page (it says %q)", phrase)}
+	}
+	if strings.Contains(text.ContentType, "html") && webPageIsOnlyACookieOrConsentNotice(text.Text, text.Title) {
+		return webPageRungResult{outcome: webPageRungBlocked, reason: webPageOnlyACookieOrConsentNoticeReason}
 	}
 	if strings.Contains(text.ContentType, "html") && webPageIsMostlyLinks(text.Text) {
 		return webPageRungResult{outcome: webPageRungDoubtful, text: text, reason: "found almost no text outside the page's links"}

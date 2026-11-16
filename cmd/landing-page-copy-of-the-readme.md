@@ -477,8 +477,9 @@ make the server an open proxy.
   `start_index`. Renderer `auto` (the default) climbs a ladder and
   stops at the first rung that reads the page: the plain fetch, then
   crawl4ai's browser, then Firecrawl's. It climbs on a bot check or
-  block page, HTTP 401, 403, 429 or 5xx, a failed render, or a page
-  with almost no text outside its links; it stops at once on an
+  block page, a page that is only a cookie or consent notice, HTTP
+  401, 403, 429 or 5xx, a failed render, or a page with almost no
+  text outside its links; it stops at once on an
   address that is not public, a missing page or a file that is not
   text. A page crawl4ai rendered thin is returned rather than paid
   for again, and a `.pdf` URL is never sent to Firecrawl unasked. A

@@ -107,3 +107,54 @@ func TestFirecrawlScrapeStopsAtTheCapWithoutCallingFirecrawl(t *testing.T) {
 		t.Errorf("unexpected health %q", health.Message)
 	}
 }
+
+// A credit count that cannot be kept refuses the scrape before anything
+// is sent, so the failure must not be logged as a spent credit (a
+// read-only state directory once logged one that was never spent).
+func TestFirecrawlScrapeRefusedForWantOfACreditCountSpendsNoCredit(t *testing.T) {
+	calls := 0
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		calls++
+	}))
+	defer server.Close()
+	SetRateLimit("firecrawl", 1000, 10)
+	blocker := filepath.Join(t.TempDir(), "a-file")
+	os.WriteFile(blocker, nil, 0o600)
+	firecrawl := NewFirecrawl(NewClient(), "fc-key").WithBaseURLForTests(server.URL).WithDailyCreditCap(25, filepath.Join(blocker, "state", "spent"))
+	_, err := firecrawl.Scrape(context.Background(), "https://a.example/page")
+	if err == nil {
+		t.Fatal("want the scrape refused")
+	}
+	if calls != 0 {
+		t.Errorf("want Firecrawl not called, got %d calls", calls)
+	}
+	if FirecrawlScrapeFailureSpentACredit(err) {
+		t.Errorf("a scrape refused before sending spent no credit, but was counted as one: %v", err)
+	}
+}
+
+func TestFirecrawlScrapeFailureSpentACreditOnlyForFailuresAfterSending(t *testing.T) {
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		w.Write([]byte(`{"success":false,"error":"blocked"}`))
+	}))
+	defer server.Close()
+	SetRateLimit("firecrawl", 1000, 10)
+	path := filepath.Join(t.TempDir(), "spent")
+	firecrawl := NewFirecrawl(NewClient(), "fc-key").WithBaseURLForTests(server.URL).WithDailyCreditCap(1, path)
+	_, sentAndFailed := firecrawl.Scrape(context.Background(), "https://a.example/page")
+	if !FirecrawlScrapeFailureSpentACredit(sentAndFailed) {
+		t.Errorf("a scrape Firecrawl answered with a failure keeps its credit: %v", sentAndFailed)
+	}
+	_, capSpent := firecrawl.Scrape(context.Background(), "https://a.example/other")
+	if !errors.Is(capSpent, ErrFirecrawlDailyCreditCapSpent) || FirecrawlScrapeFailureSpentACredit(capSpent) {
+		t.Errorf("want the cap refused and no credit counted, got %v", capSpent)
+	}
+	_, notConfigured := NewFirecrawl(NewClient(), "").Scrape(context.Background(), "https://a.example/")
+	if !errors.Is(notConfigured, ErrFirecrawlNotConfigured) || FirecrawlScrapeFailureSpentACredit(notConfigured) {
+		t.Errorf("want not configured and no credit counted, got %v", notConfigured)
+	}
+	_, notPublic := firecrawl.Scrape(context.Background(), "http://127.0.0.1/")
+	if !errors.Is(notPublic, ErrAddressNotPublic) || FirecrawlScrapeFailureSpentACredit(notPublic) {
+		t.Errorf("want the address refused and no credit counted, got %v", notPublic)
+	}
+}

@@ -247,15 +247,21 @@ func (readers webPageReaders) readWithFirecrawl(ctx context.Context, pageURL str
 }
 
 // webPageTextUnlessABotCheck, for a renderer named by the caller,
-// refuses a bot check or block page served in place of the page, saying
-// so, and notes a page with almost no text outside its links, so
-// neither is mistaken for the page's content.
+// refuses a bot check, a block page or a lone cookie or consent notice
+// served in place of the page, saying so, and notes a page with almost
+// no text outside its links, so none is mistaken for the page's content.
 func webPageTextUnlessABotCheck(text *WebPageText) (*WebPageText, error) {
 	if phrase := botCheckOrBlockPagePhrase(text.Text); phrase != "" {
 		if text.Renderer == WebFetchRendererFirecrawl {
 			return nil, fmt.Errorf("the site served Firecrawl a bot check or block page instead of the page (it says %q); no renderer here gets further", phrase)
 		}
 		return nil, fmt.Errorf("the site served %s a bot check or block page instead of the page (it says %q); renderer \"auto\" (the default) climbs to a browser that may get through", text.Renderer, phrase)
+	}
+	if strings.Contains(text.ContentType, "html") && webPageIsOnlyACookieOrConsentNotice(text.Text, text.Title) {
+		if text.Renderer == WebFetchRendererFirecrawl {
+			return nil, fmt.Errorf("Firecrawl %s; no renderer here gets further", webPageOnlyACookieOrConsentNoticeReason)
+		}
+		return nil, fmt.Errorf("the %s renderer %s; renderer \"auto\" (the default) climbs to a browser that may get through", text.Renderer, webPageOnlyACookieOrConsentNoticeReason)
 	}
 	if strings.Contains(text.ContentType, "html") && webPageIsMostlyLinks(text.Text) {
 		note := webPageMostlyLinksNote
@@ -266,6 +272,9 @@ func webPageTextUnlessABotCheck(text *WebPageText) (*WebPageText, error) {
 	}
 	return text, nil
 }
+
+// webPageOnlyACookieOrConsentNoticeReason completes "crawl4ai ...".
+const webPageOnlyACookieOrConsentNoticeReason = "was served only the site's cookie or consent notice, not the page"
 
 const webPageMostlyLinksNote = "Note: this page has almost no text outside its links: it may be a sign-in wall, or built by JavaScript"
 

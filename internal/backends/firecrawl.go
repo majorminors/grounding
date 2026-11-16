@@ -8,7 +8,6 @@ import (
 	"log"
 	"net/http"
 	"net/url"
-	"strings"
 )
 
 // Firecrawl renders a page in a browser, so it reads pages built by
@@ -95,14 +94,14 @@ type FirecrawlPage struct {
 // has the cache on), so paging through a long page pays once.
 func (f *FirecrawlBackend) Scrape(ctx context.Context, pageURL string) (*FirecrawlPage, error) {
 	if f.apiKey == "" {
-		return nil, ErrFirecrawlNotConfigured
+		return nil, firecrawlScrapeRefusedBeforeTheRequestWasSent{ErrFirecrawlNotConfigured}
 	}
 	parsedURL, err := url.Parse(pageURL)
 	if err != nil {
-		return nil, fmt.Errorf("not a URL: %w", err)
+		return nil, firecrawlScrapeRefusedBeforeTheRequestWasSent{fmt.Errorf("not a URL: %w", err)}
 	}
 	if err := WebURLOrRefusal(parsedURL); err != nil {
-		return nil, err
+		return nil, firecrawlScrapeRefusedBeforeTheRequestWasSent{err}
 	}
 
 	key := "firecrawl\x00" + parsedURL.String()
@@ -117,9 +116,11 @@ func (f *FirecrawlBackend) Scrape(ctx context.Context, pageURL string) (*Firecra
 	}
 
 	// Only a scrape Firecrawl will be asked for counts against the cap:
-	// the cache answered above for free.
+	// the cache answered above for free. Any refusal here, the cap
+	// spent or a count that cannot be kept, comes before the request,
+	// so it costs nothing at Firecrawl.
 	if err := f.dailyCreditCap.reserve(1); err != nil {
-		return nil, err
+		return nil, firecrawlScrapeRefusedBeforeTheRequestWasSent{err}
 	}
 
 	// Formats checked against
@@ -196,16 +197,23 @@ func (f *FirecrawlBackend) Scrape(ctx context.Context, pageURL string) (*Firecra
 // ErrFirecrawlNotConfigured is returned when no key is set.
 var ErrFirecrawlNotConfigured = errors.New("firecrawl: FIRECRAWL_API_KEY not configured")
 
+// firecrawlScrapeRefusedBeforeTheRequestWasSent marks a Scrape failure
+// that came before any request went to Firecrawl (no key, a URL
+// refused, the daily cap spent, or a credit count that cannot be kept),
+// so no credit was spent or reserved. Its text is the wrapped error's.
+type firecrawlScrapeRefusedBeforeTheRequestWasSent struct{ err error }
+
+func (refusal firecrawlScrapeRefusedBeforeTheRequestWasSent) Error() string {
+	return refusal.err.Error()
+}
+func (refusal firecrawlScrapeRefusedBeforeTheRequestWasSent) Unwrap() error { return refusal.err }
+
 // FirecrawlScrapeFailureSpentACredit reports whether a failed Scrape
 // had already counted a credit against the daily cap: every failure
-// after the request was about to be sent, but not one refused before it
-// (no key, a URL refused, the cap spent).
+// after the request was about to be sent, but not one refused before it.
 func FirecrawlScrapeFailureSpentACredit(err error) bool {
-	return err != nil &&
-		!errors.Is(err, ErrFirecrawlNotConfigured) &&
-		!errors.Is(err, ErrAddressNotPublic) &&
-		!errors.Is(err, ErrFirecrawlDailyCreditCapSpent) &&
-		!strings.HasPrefix(err.Error(), "not a URL")
+	var refusedBeforeSending firecrawlScrapeRefusedBeforeTheRequestWasSent
+	return err != nil && !errors.As(err, &refusedBeforeSending)
 }
 
 // HealthCheck reports whether a key is configured. It makes no call:
